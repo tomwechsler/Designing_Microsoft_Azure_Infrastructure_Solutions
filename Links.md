@@ -31,4 +31,7 @@ https://www.thomasmaurer.ch/2021/10/az-305-study-guide-azure-solutions-architect
 
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 ------------------
+
+**Design identity, governance, and monitoring solutions:**
+
 coming soon
