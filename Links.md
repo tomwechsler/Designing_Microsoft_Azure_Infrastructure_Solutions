@@ -34,4 +34,6 @@ More helpful information directly from Microsoft, divided into the functional gr
 
 **Design identity, governance, and monitoring solutions:**
 
+**Design data storage solutions:**
+
 coming soon
