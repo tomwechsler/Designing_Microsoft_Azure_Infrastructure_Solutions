@@ -36,4 +36,6 @@ More helpful information directly from Microsoft, divided into the functional gr
 
 **Design data storage solutions:**
 
+**Design business continuity solutions:**
+
 coming soon
