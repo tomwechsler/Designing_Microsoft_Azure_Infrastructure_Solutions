@@ -38,4 +38,6 @@ More helpful information directly from Microsoft, divided into the functional gr
 
 **Design business continuity solutions:**
 
+**Design infrastructure solutions:**
+
 coming soon
