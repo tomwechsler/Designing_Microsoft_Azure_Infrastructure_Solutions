@@ -17,8 +17,6 @@ https://docs.microsoft.com/en-us/learn/paths/design-business-continuity-solution
 
 https://docs.microsoft.com/en-us/learn/paths/design-data-storage-solutions/
 
-https://docs.microsoft.com/en-us/learn/paths/design-data-storage-solutions/
-
 https://docs.microsoft.com/en-us/learn/paths/design-infranstructure-solutions/
 
 https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/
